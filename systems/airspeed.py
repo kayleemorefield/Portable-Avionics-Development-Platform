@@ -1,4 +1,4 @@
-import math, board, busio 
+import math, board, busio, time
 import adafruit_ads1x15.ads1115 as ADS
 
 pressure_sensor = 0 # initialize A0 on ads1115
